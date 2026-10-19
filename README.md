@@ -14,11 +14,8 @@ npm run build    # production build check
 
 - **Personal info** (name, email, bio, socials, tools, experience, stats): `lib/site.ts`
 - **Projects** (cards + case-study pages at `/work/<slug>`): `lib/projects.ts`
-  - The six projects there are placeholders. For each Behance project, copy its
-    title, description and Behance URL, and paste its cover image address
-    (right-click the cover on Behance > Copy image address) into `cover`.
-    Behance image URLs (`mir-s3-cdn-cf.behance.net`) are already allowed in `next.config.ts`.
-  - Or save images into `public/projects/` and use `/projects/your-image.jpg`.
+  - To add a project, copy an existing entry, put its cover image in
+    `public/projects/` and set `cover` to `/projects/your-image.jpg`.
 - **Resume**: add `public/resume.pdf`.
 - **Portrait**: replace the "EA" block in the About section of `app/page.tsx`.
 
