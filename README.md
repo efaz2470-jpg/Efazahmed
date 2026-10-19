@@ -17,7 +17,7 @@ npm run build    # production build check
   - To add a project, copy an existing entry, put its cover image in
     `public/projects/` and set `cover` to `/projects/your-image.jpg`.
 - **Resume**: add `public/resume.pdf`.
-- **Portrait**: replace the "EA" block in the About section of `app/page.tsx`.
+- **Portrait**: replace `public/efaz.jpg`.
 
 Search for `TODO` to find every placeholder.
 
