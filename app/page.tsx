@@ -54,14 +54,6 @@ export default function Home() {
             >
               View my work <Arrow />
             </Link>
-            <a
-              href={site.resumeUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-full border border-line px-7 py-4 font-medium transition-colors hover:border-white/40"
-            >
-              Download resume
-            </a>
           </Reveal>
 
           <Reveal delay={400}>

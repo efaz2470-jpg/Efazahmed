@@ -10,7 +10,6 @@ export const site = {
   phone: "+1 (470) 406-3711",
   phoneHref: "tel:+14704063711",
   photo: "/efaz.jpg",
-  resumeUrl: "/resume.pdf", // TODO: drop resume.pdf into /public
   available: true,
   url: "https://efazahmed.vercel.app", // TODO: final Vercel domain
   headline: "I design digital products that feel simple, look sharp and just work.",

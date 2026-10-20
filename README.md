@@ -16,7 +16,6 @@ npm run build    # production build check
 - **Projects** (cards + case-study pages at `/work/<slug>`): `lib/projects.ts`
   - To add a project, copy an existing entry, put its cover image in
     `public/projects/` and set `cover` to `/projects/your-image.jpg`.
-- **Resume**: add `public/resume.pdf`.
 - **Portrait**: replace `public/efaz.jpg`.
 
 Search for `TODO` to find every placeholder.
