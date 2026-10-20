@@ -11,7 +11,7 @@ export const site = {
   phoneHref: "tel:+14704063711",
   photo: "/efaz.jpg",
   available: true,
-  url: "https://efazahmed.vercel.app", // TODO: final Vercel domain
+  url: "https://efazahmed.vercel.app",
   headline: "I design digital products that feel simple, look sharp and just work.",
   intro:
     "Atlanta-based UI/UX and product designer creating clean, intuitive digital experiences, from wireframes and user flows to polished, high-fidelity interfaces.",
